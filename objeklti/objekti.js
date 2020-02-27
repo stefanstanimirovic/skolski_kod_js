@@ -239,3 +239,4 @@ let poslednjiNajviseMerenja = dani => {
 prviNajviseMerenja(merenjaDani);
 
 console.log("Test poruka");
+console.log("Druga test poruka");
