@@ -237,3 +237,5 @@ let poslednjiNajviseMerenja = dani => {
 }
 
 prviNajviseMerenja(merenjaDani);
+
+console.log("Test poruka");
